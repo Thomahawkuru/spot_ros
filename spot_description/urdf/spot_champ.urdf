@@ -171,7 +171,7 @@
         </image>
         <clip>
           <near>0.5</near>
-          <far>9</far>
+          <far></far>
         </clip>
       </camera>
       <plugin filename="libgazebo_ros_openni_kinect.so" name="camera_camera_controller">
