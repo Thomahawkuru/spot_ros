@@ -788,14 +788,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -808,14 +808,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0.001 -0.4505 -0.0475"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part3_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part3_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0.001 -0.4505 -0.0475"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part3_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part3_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -828,14 +828,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0.0085 -0.77959 -0.0475"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/gripper_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/gripper_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0.0085 -0.77959 -0.0475"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/gripper_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/gripper_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -848,14 +848,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0.87709 -0.823505 -0.0185"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/finger_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/finger_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0.87709 -0.823505 -0.0185"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/finger_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/finger_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -868,14 +868,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-0.015 -0.0 -0.115"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part1_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part1_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.015 -0.0 -0.115"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part1_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part1_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -888,14 +888,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-0.0 -0.0 -0.065"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part0_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part0_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.0 -0.0 -0.065"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part0_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part0_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -908,14 +908,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0.0485 -0.69859 -0.0475"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part4_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part4_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0.0485 -0.69859 -0.0475"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part4_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part4_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -928,14 +928,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-0.017 -0.3125 -0.115"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part2_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part2_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.017 -0.3125 -0.115"/>
       <geometry>
-        <mesh filename="package://spot_arm_description/meshes/Part2_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="package://spot_description/meshes/Part2_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
